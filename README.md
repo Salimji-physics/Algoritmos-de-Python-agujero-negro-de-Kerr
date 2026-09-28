@@ -8,7 +8,7 @@ La presentación y discusión completa de los resultados se encuentran recogidas
 
 ## Resultados
 
-El programa [Kerr_calculos](Kerr_calculos.ipynb) define la métrica de Kerr y realiza, a partir de estas, algunos cálculos como su inversa o los tensores de curvatura de Ricci y Escalar. Estos últimos son empleados para calcular el *Escalar de Kretschmann*, el cual nos ha permitido buscar singularidades de curvatura en nuestra métrica. 
+El programa [Kerr_calculos](Kerr_calculos.ipynb) define la métrica de Kerr y realiza, a partir de esta, diversos cálculos como su inversa o los tensores de curvatura de Ricci y Escalar. Estos últimos han sido empleados para calcular el *Escalar de Kretschmann*, el cual nos ha permitido buscar singularidades de curvatura en nuestra métrica. 
 
 Por otro lado, a partir de la búsqueda de los ceros de la métrica y su inversa y de cómo se invierten los signos de determinadas componentes de las mismas se han extraído los diferentes horizontes del agujero negro de Kerr.
 
