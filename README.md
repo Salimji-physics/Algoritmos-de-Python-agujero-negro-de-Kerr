@@ -34,9 +34,15 @@ En *Relatividad General*, las trayectorias que siguen los observadores en caída
 
 <img width="285" height="170" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
 
+A primera vista, vemos comportamientos usuales de objetos bajo efecto de un potencial gravitatorio: según la posición y velocidad iniciales dadas, se tienen trayectorias de caída y escape (imagen izquierda) u órbitas estables circulares y elípticas (imagen derecha). Sin embargo, en el caso particular de la órbita elíptica, observamos un efecto que no veíamos en el formalismo newtoniano: la *precesión relativista* de la órbita.
+
+En la sección anterior, se introdujo el efecto de *frame dragging* de la ergosfera. En las siguientes imágenes, lo evidenciamos gráficamente colocando dos observadores al borde de la ergosfera, uno con componente espacial de la velocidad inicial nula, y otro con velocidad inicial cercana a la luz en sentido contrario a la rotación del agujero negro:
+
 <img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 
 <img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
+
+Cada figura muestra la misma situación vista desde dos perspectivas diferentes: una frontal y otra lateral. Vemos cómo, para ambas condiciones iniciales descritas anteriormente, cuando los observadores se adentran a la ergosfera por atracción gravitatoria, emprenden de forma inevitable una trayectoria en el sentido de giro del agujero negro.
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
