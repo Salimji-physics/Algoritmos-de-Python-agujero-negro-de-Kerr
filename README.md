@@ -28,13 +28,15 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 **AVISO:**  de aquí en adelante, en la graficación de geodésicas, tan solo se visualizarán la ergosfera y el horizonte de sucesos externo del agujero negro para no saturar las figuras y facilitar su visualización. Además, se mostrará gráficamente la **posición inicial** con un punto de color amarillo y la componente espacial de la **velocidad inicial** con una flecha del mismo color que la curva de trayectoria.
 
-<img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
-
-<img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
+En *Relatividad General*, las trayectorias que siguen los observadores en caída libre son curvas geodésicas temporales futuras unitarias. A continuación, se muestran los ejemplos más sencillos de observadores lanzados con diferentes condiciones iniciales en la vecindad de un agujero negro de Kerr:
 
 <img width="485" height="290" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
 
 <img width="665" height="360" alt="Geodésicas1" src="https://github.com/user-attachments/assets/e7b41aed-991e-440d-9194-52ef4bfc0c72" />
+
+<img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
+
+<img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
