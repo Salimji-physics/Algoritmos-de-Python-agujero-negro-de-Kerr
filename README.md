@@ -30,9 +30,9 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 En *Relatividad General*, las trayectorias que siguen los observadores en caída libre son curvas geodésicas temporales futuras unitarias. Como ejemplos de dichas curvas, se muestran a continuación casos sencillos de observadores lanzados con diferentes condiciones iniciales en la vecindad de un agujero negro de Kerr:
 
-<img width="315" height="150" alt="Geodésicas1" src="https://github.com/user-attachments/assets/e7b41aed-991e-440d-9194-52ef4bfc0c72" />
+<img width="310" height="150" alt="Geodésicas1" src="https://github.com/user-attachments/assets/e7b41aed-991e-440d-9194-52ef4bfc0c72" />
 
-<img width="285" height="190" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
+<img width="285" height="170" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
 
 <img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 
