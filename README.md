@@ -1,4 +1,5 @@
 #Descripción
+
 Los algoritmos publicados emplean el formalismo de la *Geometría Diferencial* y la *Relatividad General* para calcular numéricamente  y representar gráficamente geodésicas de observadores en caída libre y de la luz en torno a fuentes gravitatorias. En particular, se estudia la métrica de Kerr, con la cual podemos modelar la estructura y el comportamiento de agujeros negros que rotan.
 
 El programa se encuentra codificado en lenguaje *Python*, valiéndose de la librería *SageManifolds*, incorporada en *SageMath*. Además, ha sido compilado en *Jupyter Notebook*, produciendo los resultados que se mostrarán a continuación.
