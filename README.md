@@ -1,3 +1,12 @@
+#Descripción
+Los algoritmos publicados emplean el formalismo de la *Geometría Diferencial* y la *Relatividad General* para calcular numéricamente  y representar gráficamente geodésicas de observadores en caída libre y de la luz en torno a fuentes gravitatorias. En particular, se estudia la métrica de Kerr, con la cual podemos modelar la estructura y el comportamiento de agujeros negros que rotan.
+
+El programa se encuentra codificado en lenguaje *Python*, valiéndose de la librería *SageManifolds*, incorporada en *SageMath*. Además, ha sido compilado en *Jupyter Notebook*, produciendo los resultados que se mostrarán a continuación.
+
+La presentación y discusión completa de los resultados se encuentran recogidas en un trabajo de fin de grado titulado *Análisis Geométrico del Espacio-tiempo de Kerr y sus Principales Propiedades Físicas*, del grado en Física por la Universidad de Córdoba.
+
+##Resultados
+
 <img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 <img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
 <img width="485" height="290" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
