@@ -6,7 +6,9 @@ El programa se encuentra codificado en lenguaje *Python*, valiéndose de la libr
 
 La presentación y discusión completa de los resultados se encuentran recogidas en un trabajo de fin de grado titulado *Análisis Geométrico del Espacio-Tiempo de Kerr y sus Principales Propiedades Físicas*, del grado en Física por la Universidad de Córdoba.
 
-## Resultados
+# Resultados
+
+## Agujero negro de Kerr
 
 El programa [Kerr_calculos](Kerr_calculos.ipynb) define la métrica de Kerr y realiza, a partir de esta, diversos cálculos como su inversa o los tensores de curvatura de Ricci y Escalar. Estos últimos han sido empleados para calcular el *Escalar de Kretschmann*, el cual nos ha permitido buscar singularidades de curvatura en nuestra métrica. 
 
@@ -22,7 +24,9 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 <img width="651" height="345" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
 
-De aquí en adelante, en la graficación de geodésicas, tan solo se visualizarán la ergosfera y el horizonte de sucesos externo del agujero negro para no saturar las figuras y facilitar su visualización.
+## Geodésicas temporales
+
+**AVISO:**  de aquí en adelante, en la graficación de geodésicas, tan solo se visualizarán la ergosfera y el horizonte de sucesos externo del agujero negro para no saturar las figuras y facilitar su visualización.
 
 <img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 
