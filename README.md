@@ -8,6 +8,12 @@ La presentación y discusión completa de los resultados se encuentran recogidas
 
 ## Resultados
 
+El programa [Kerr_calculos](Kerr_calculos.ipynb) define la métrica de Kerr y realiza, a partir de estas, algunos cálculos como su inversa o los tensores de curvatura de Ricci y Escalar. Estos últimos son empleados para calcular el *Escalar de Kretschmann*, el cual nos ha permitido buscar singularidades de curvatura en nuestra métrica. 
+
+Por otro lado, a partir de la búsqueda de los ceros de la métrica y su inversa y de cómo se invierten los signos de determinadas componentes de las mismas se han extraído los diferentes horizontes del agujero negro de Kerr.
+
+Al introducir las condiciones calculadas anteriormente en el programa [Kerr_graficas](Kerr_graficas.ipynb), se ha logrado representar gráficamente la estructura interna de los agujeros negros que rotan. Véase la siguiente figura:
+
 <img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 <img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
 <img width="485" height="290" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
