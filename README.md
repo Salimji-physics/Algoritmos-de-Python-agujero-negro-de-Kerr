@@ -46,9 +46,9 @@ Cada figura muestra la misma situación vista desde dos perspectivas diferentes:
 
 En realidad, este efecto de arrastre también existe, en menor medida, fuera de la ergosfera. Esto es debido a la contribución a la métrica de un término cruzado entre la componente temporal y la espacial axial. Dicho término provocará una desviación de las trayectorias hacia el sentido de giro del agujero negro y, a medida que nos aproximamos a la ergosfera, dicho efecto es cada vez mayor. Dentro de la ergosfera, el término cruzado contiene la única contribución de la componente temporal a la métrica (g00 habrá pasado a ser espacial), de modo que tener una determinada velocidad hacia el futuro implica un movimiento inevitable en la coordenada axial.
 
-Veamos representado el fenómeno que acabamos de describir. Si rescatamos la órbita circular que representamos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
+Veamos representado el fenómeno que acabamos de describir. Si rescatamos la órbita circular que vimos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
 
-<img width="664" height="286" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
+<img width="464" height="186" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
 
 <img width="503" height="329" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
 
