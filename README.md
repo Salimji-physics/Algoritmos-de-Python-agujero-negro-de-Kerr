@@ -22,7 +22,7 @@ Vemos cómo, a diferencia de los agujeros negros estáticos dados por la *métri
 
 La imagen que se muestra a continuación recoge cómo varía el signo de las componentes temporal (g00) y espacial radial (g11) de la métrica al atravesar las distintas regiones del agujero negro:
 
-<img width="651" height="345" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
+<img width="351" height="145" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
 
 ## Geodésicas temporales
 
