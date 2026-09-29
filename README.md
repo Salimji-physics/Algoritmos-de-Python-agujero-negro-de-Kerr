@@ -44,7 +44,9 @@ En la sección anterior, se introdujo el efecto de *frame dragging* de la ergosf
 
 Cada figura muestra la misma situación vista desde dos perspectivas diferentes: una frontal y otra lateral. Vemos cómo, para ambas condiciones iniciales descritas anteriormente, cuando los observadores se adentran a la ergosfera por atracción gravitatoria, emprenden de forma inevitable una trayectoria en el sentido de giro del agujero negro.
 
-Por último, si rescatamos la órbita circular que representamos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
+En realidad, este efecto de arrastre también existe, en menor medida, fuera de la ergosfera. Esto es debido a la contribución a la métrica de un término cruzado entre la componente temporal y la espacial axial. Dicho término provocará una desviación de las trayectorias hacia el sentido de giro del agujero negro y, a medida que nos aproximamos a la ergosfera, dicho efecto es cada vez mayor. Dentro de la ergosfera, el término cruzado contiene la única contribución de la componente temporal a la métrica (g00 habrá pasado a ser espacial), de modo que tener una determinada velocidad hacia el futuro implica un movimiento inevitable en la coordenada axial.
+
+Veamos representado el fenómeno que acabamos de describir. Si rescatamos la órbita circular que representamos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
