@@ -50,7 +50,13 @@ Veamos representado el fenómeno que acabamos de describir. Si rescatamos la ór
 
 <img width="434" height="186" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
 
+Se observa cómo, en el caso en el que la velocidad inicial va en contra de la rotación del agujero negro, una trayectoria que en principio debiese formar una órbita circular idéntica al otro caso representado, en realidad se desvía por efecto del arrastre y acaba cayendo a su interior. Por lo tanto, estamos viendo dentro del marco relativista otro fenómeno que no se podría explicar desde el formalismo newtoniano: dado un mismo observador, con condiciones iniciales idénticas y bajo efecto de un mismo potencial gravitatorio, la trayectoria resultante varía con el sentido inicial de su velocidad espacial. Por otro lado, si la posición inicial se hubiese encontrado dentro de la ergosfera, como vimos en las dos imágenes anteriores, en lugar de recorrer una cierta distancia en sentido contrario a la rotación mientras se desvía lentamente hasta moverse a favor de esta, saldría directamente en sentido contrario a su velocidad espacial inicial.
+
+Por último, veamos qué ocurre si tomamos una posición inicial común fuera de la ergosfera e iteramos el módulo de la velocidad inicial:
+
 <img width="503" height="329" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
+
+Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del punto inicial, pero con sentido de la velocidad espacial inicial invertido. Si tan solo nos fijamos en el lado derecho, vemos el efecto esperado de una fuente gravitatoria: las curvas serán más o menos cerradas en torno al agujero negro en función del módulo de su velocidad inicial. Sin embargo, en el lado izquierdo volvemos a ver el mismo fenómeno que describimos anteriormente, al invertir el sentido de la velocidad las trayectorias se modifican completamente, desviándose por efecto del arrastre hasta ir en el mismo sentido de la rotación del agujero negro.
 
 ## Geodésicas luz
 
