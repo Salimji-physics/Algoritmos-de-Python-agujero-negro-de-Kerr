@@ -54,7 +54,7 @@ Se observa cómo, en el caso en el que la velocidad inicial va en contra de la r
 
 Por último, veamos qué ocurre si tomamos una posición inicial común fuera de la ergosfera e iteramos el módulo de la velocidad inicial:
 
-<img width="303" height="129" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
+<img width="303" height="229" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
 
 Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del punto inicial, pero con sentido de la velocidad espacial inicial invertido. Si tan solo nos fijamos en el lado derecho, vemos el efecto esperado de una fuente gravitatoria: las curvas serán más o menos cerradas en torno al agujero negro en función del módulo de su velocidad inicial. Sin embargo, en el lado izquierdo volvemos a ver el mismo fenómeno que describimos anteriormente, al invertir el sentido de la velocidad las trayectorias se modifican completamente, desviándose por efecto del arrastre hasta ir en el mismo sentido de la rotación del agujero negro.
 
