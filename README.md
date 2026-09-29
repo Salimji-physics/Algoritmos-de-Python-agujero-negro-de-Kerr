@@ -48,6 +48,12 @@ En realidad, este efecto de arrastre también existe, en menor medida, fuera de 
 
 Veamos representado el fenómeno que acabamos de describir. Si rescatamos la órbita circular que representamos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
 
+<img width="664" height="286" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
+
+<img width="503" height="329" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
+
+## Geodésicas luz
+
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
 <img width="365" height="363" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
@@ -60,10 +66,6 @@ Veamos representado el fenómeno que acabamos de describir. Si rescatamos la ór
 
 <img width="421" height="400" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
 
-<img width="664" height="286" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
-
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
-
-<img width="503" height="329" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
