@@ -38,7 +38,7 @@ A primera vista, vemos comportamientos usuales de objetos bajo efecto de un pote
 
 En la sección anterior, se introdujo el efecto de *frame dragging* de la ergosfera. En las siguientes imágenes, lo evidenciamos gráficamente colocando dos observadores al borde de la ergosfera, uno con componente espacial de la velocidad inicial nula, y otro con velocidad inicial cercana a la luz en sentido contrario a la rotación del agujero negro:
 
-<img width="447" height="353" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
+<img width="247" height="153" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 
 <img width="428" height="351" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
 
