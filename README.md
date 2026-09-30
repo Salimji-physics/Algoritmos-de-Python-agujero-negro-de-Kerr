@@ -62,6 +62,10 @@ Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del
 
 Una de las consecuencias físicas más revolucionarias e interesantes de la llegada de la *Relatividad General* fue descubrir que la trayectoria de la luz se ve curvada por efecto de potenciales gravitatorios. En este marco teórico, la luz se mueve siguiendo geodésicas luminosas, y podemos ver cómo estas son afectadas por la métrica de Kerr en las siguientes figuras:
 
+<img width="337" height="315" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
+
+<img width="321" height="315" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
+
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
@@ -73,7 +77,3 @@ Una de las consecuencias físicas más revolucionarias e interesantes de la lleg
 <img width="240" height="323" alt="Geodésicas12" src="https://github.com/user-attachments/assets/0a491283-3362-45a7-bab2-77525ff055ab" />
 
 <img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
-
-<img width="337" height="315" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
-
-<img width="421" height="400" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
