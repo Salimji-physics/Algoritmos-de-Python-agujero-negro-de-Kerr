@@ -70,7 +70,7 @@ En estas imágenes, se han representado geodésicas luz partiendo de puntos inic
 
 Veamos qué ocurre si, para las mismas posiciones iniciales, lanzamos la luz en la dirección azimutal:
 
-<img width="210" height="303" alt="Geodésicas12" src="https://github.com/user-attachments/assets/0a491283-3362-45a7-bab2-77525ff055ab" />
+<img width="210" height="293" alt="Geodésicas12" src="https://github.com/user-attachments/assets/0a491283-3362-45a7-bab2-77525ff055ab" />
 
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
