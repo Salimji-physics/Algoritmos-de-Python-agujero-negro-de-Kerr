@@ -66,7 +66,7 @@ Una de las consecuencias físicas más revolucionarias e interesantes de la lleg
 
 <img width="317" height="300" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
 
-En estas imágenes, se han representado geodésicas luz partiendo de puntos iniciales en el plano con coordenada azimutal de 45º y a diferentes distancias radiales del agujero negro. Ambas figuras muestran las mismas condiciones iniciales pero con sentido de la velocidad espacial inicial invertido.
+En estas imágenes, se han representado geodésicas luz partiendo de puntos iniciales contenidas en el plano con coordenada azimutal de 45º y a diferentes distancias radiales del agujero negro. Ambas figuras muestran las mismas condiciones iniciales pero con sentidos de la velocidad espacial inicial contrarios. En el caso izquierdo vemos cómo la luz se comporta de forma idéntica a cualquier observador bajo efectos de un campo gravitatorio: se curva en torno a la fuente gravitatoria y dichas curvas se vuelven más cerradas a medida que reducimos la distancia radial inicial, dando como resultado trayectorias de caída y trayectorias de escape. En la figura derecha, en cambio, vemos de nuevo cómo las curvas se ven desviadas por el efecto de arrastre de la rotación del agujero negro, que también tiene efecto sobre la luz.
 
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
