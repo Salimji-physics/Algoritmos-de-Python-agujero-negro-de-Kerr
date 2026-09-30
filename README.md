@@ -68,6 +68,8 @@ Una de las consecuencias físicas más revolucionarias e interesantes de la lleg
 
 En estas imágenes, se han representado geodésicas luz partiendo de puntos iniciales contenidas en el plano con coordenada azimutal de 45º y a diferentes distancias radiales del agujero negro. Ambas figuras muestran las mismas condiciones iniciales pero con sentidos de la velocidad espacial inicial contrarios. En el caso izquierdo, vemos cómo la luz se comporta de forma idéntica a cualquier observador bajo efectos de un campo gravitatorio: se curva en torno a la fuente gravitatoria y dichas curvas se vuelven más cerradas a medida que reducimos la distancia radial inicial, dando como resultado trayectorias de caída y trayectorias de escape. En la figura derecha, en cambio, vemos de nuevo cómo las curvas se ven desviadas por el efecto de arrastre de la rotación del agujero negro, evidenciando que también actúa sobre la luz.
 
+Veamos qué ocurre si, para las mismas posiciones iniciales, lanzamos la luz en la dirección azimutal:
+
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
