@@ -66,6 +66,8 @@ Una de las consecuencias físicas más revolucionarias e interesantes de la lleg
 
 <img width="301" height="300" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
 
+En estas imágenes, se han representado geodésicas luz partiendo de puntos iniciales en el plano con coordenada azimutal de 45º y a diferentes distancias radiales del agujero negro. Ambas figuras muestran las mismas condiciones iniciales pero con sentido de la velocidad espacial inicial invertido.
+
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
