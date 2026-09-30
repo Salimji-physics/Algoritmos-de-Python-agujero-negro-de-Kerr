@@ -72,6 +72,8 @@ Veamos qué ocurre si, para las mismas posiciones iniciales, lanzamos la luz en 
 
 <img width="210" height="283" alt="Geodésicas12" src="https://github.com/user-attachments/assets/0a491283-3362-45a7-bab2-77525ff055ab" />
 
+Se vuelve a poner de manifiesto el efecto del *frame dragging* sobre las geodésicas luz, inclinándolas hacia la derecha (sentido de rotación del agujero negro). Además, en esta imagen es mucho más fácil ver cómo, a medida que las posiciones iniciales son más cercanas a la ergosfera, el efecto de arrastre se va haciendo más notorio (las inclinaciones de las trayectorias se vuelven más pronunciadas).
+
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
