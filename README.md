@@ -60,7 +60,7 @@ Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del
 
 ## Geodésicas luz
 
-Una de las consecuencias físicas más revolucionarias de la llegada de la *Relatividad General* fue 
+Una de las consecuencias físicas más revolucionarias e interesantes de la llegada de la *Relatividad General* fue descubrir que la trayectoria de la luz se ve curvada por efecto de potenciales gravitatorios. En este marco teórico, la luz se mueve siguiendo geodésicas luminosas, y podemos ver cómo estas son afectadas por la métrica de Kerr en las siguientes figuras:
 
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
