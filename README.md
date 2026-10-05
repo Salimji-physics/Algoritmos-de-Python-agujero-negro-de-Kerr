@@ -74,6 +74,8 @@ Veamos qué ocurre si, para las mismas posiciones iniciales, lanzamos la luz en 
 
 Se vuelve a poner de manifiesto el efecto del *frame dragging* sobre las geodésicas luz, inclinándolas hacia la derecha (sentido de rotación del agujero negro). Además, en esta imagen es mucho más fácil ver cómo, a medida que las posiciones iniciales son más cercanas a la ergosfera, el efecto de arrastre se va haciendo más notorio (las inclinaciones de las trayectorias se vuelven más pronunciadas).
 
+De la misma forma que con las geodésicas temporales, es lógico preguntarse si existen condiciones iniciales para las cuales las geodésicas luz forman órbitas circulares estables en torno al agujero negro. Dada la gran dificultad que supone encontrar dichas condiciones a base de prueba y error, se ha creado un procedimiento para calcularlas. Para ello, se ha empleado el formalismo de Euler-Lagrange, aplicando condición de coordenada radial invariante (buscamos circunferencias) y condición de vectores luminosos. Además, comenzaremos estudiando el caso en el que la velocidad inicial espacial se encuentra contenida en la coordenada axial (es decir, la componente azimutal también es nula), de modo que buscaremos órbitas circulares de la luz contenidas en el plano ecuatorial del agujero negro. Como resultado, se ha calculado e implantado en [Kerr_graficas](Kerr_graficas.ipynb) una función que toma como parámetros de entrada 
+
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
