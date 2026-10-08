@@ -83,8 +83,8 @@ Tomando un ángulo azimutal inicial de 90º, es decir, al buscar órbitas conten
 <img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 Estos son los denominados *anillos luz del agujero negro de Kerr*, y se clasifican en:
-* *Curva prógrada:*
-* *Curva retrógada:*
+* *Curva prógrada:* representada en color rojo. Es la correspondiente a una velocidad inicial en el mismo sentido que la rotación del agujero negro y un radio inicial más pequeño.
+* *Curva retrógada:* representada en color verde. Es la correspondiente a una velocidad inicial en sentido contrario a la rotación del agujero negro y un radio inicial más grande.
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
