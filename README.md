@@ -90,7 +90,7 @@ Cabe notar que la curva prógrada no se ha podido dibujar completamente debido a
 
 Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circulares de luz en su plano ecuatorial. A continuación, es lógico preguntarse cómo afecta a estas órbitas el efecto de arrastre de la rotación, al igual que hicimos con las geodésicas temporales en la sección anterior. Para ello, volvemos a representar la órbita circular retrógada (ahora en color rojo), junto con otra curva (verde) que parte con las mismas condiciones iniciales pero sentido opuesto de la velocidad axial inicial (es decir, a favor de la rotación):
 
-<img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
+<img width="443" height="184" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
 Probemos ahora el mismo algoritmo para casos fuera de dicho plano. Por ejemplo, ángulo azimutal inicial de 45º:
 
