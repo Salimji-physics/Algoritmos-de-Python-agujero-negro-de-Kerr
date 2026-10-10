@@ -88,12 +88,14 @@ Estos son los denominados *anillos luz del agujero negro de Kerr*, y se clasific
 
 Cabe notar que la curva prógrada no se ha podido dibujar completamente debido a las limitaciones de exactitud del método numérico empleado (valores límites de tolerancia y paso del programa) y a la gran inestabilidad que produce encontrarse tan cerca del horizonte de sucesos. 
 
-Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circulares de luz en su plano ecuatorial. Probemos ahora el mismo algoritmo para casos fuera de dicho plano. Por ejemplo, ángulo azimutal inicial de 45º:
+Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circulares de luz en su plano ecuatorial. A continuación, es lógico preguntarse cómo afecta a estas órbitas el efecto de arrastre de la rotación, al igual que hicimos con las geodésicas temporales en la sección anterior. Para ello, volvemos a representar la órbita circular retrógada (ahora en color rojo), junto con otra curva (verde) que parte con las mismas condiciones iniciales pero sentido opuesto de la velocidad axial inicial (es decir, a favor de la rotación):
 
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
+
+Probemos ahora el mismo algoritmo para casos fuera de dicho plano. Por ejemplo, ángulo azimutal inicial de 45º:
+
+<img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
 <img width="365" height="363" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
-
-<img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
