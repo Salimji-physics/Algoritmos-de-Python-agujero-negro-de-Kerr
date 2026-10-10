@@ -86,6 +86,10 @@ Estos son los denominados *anillos luz del agujero negro de Kerr*, y se clasific
 * *Curva prógrada:* representada en color rojo. Es la correspondiente a una velocidad inicial en el mismo sentido que la rotación del agujero negro y un radio inicial más pequeño.
 * *Curva retrógada:* representada en color verde. Es la correspondiente a una velocidad inicial en sentido contrario a la rotación del agujero negro y un radio inicial más grande.
 
+Cabe notar que la curva prógrada no se ha podido dibujar completamente debido a las limitaciones de exactitud del método numérico empleado (valores límites de tolerancia y paso del programa) y a la gran inestabilidad que produce encontrarse tan cerca del horizonte de sucesos. 
+
+Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circulares de luz en su plano ecuatorial. Probemos ahora el mismo algoritmo para casos fuera de dicho plano. Por ejemplo, ángulo azimutal inicial de 45º:
+
 <img width="863" height="284" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
