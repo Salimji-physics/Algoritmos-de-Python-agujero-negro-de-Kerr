@@ -92,7 +92,7 @@ Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circular
 
 <img width="443" height="154" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
-Probemos ahora el mismo algoritmo para casos fuera de dicho plano. Por ejemplo, ángulo azimutal inicial de 45º:
+Probemos ahora el mismo algoritmo para casos fuera del plano ecuatorial. Por ejemplo, con ángulo azimutal inicial de 45º:
 
 <img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
 
