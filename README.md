@@ -80,7 +80,7 @@ Como resultado, se ha calculado e implantado en [Kerr_graficas](Kerr_graficas.ip
 
 Tomando un ángulo azimutal inicial de 90º, es decir, al buscar órbitas contenidas en el plano ecuatorial del agujero negro (recordemos que la velocidad espacial inicial no se sale de la dirección axial), se obtienen los siguientes 2 resultados:
 
-<img width="656" height="293" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
+<img width="456" height="193" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 
 Estos son los denominados *anillos luz del agujero negro de Kerr*, y se clasifican en:
 * *Curva prógrada:* representada en color rojo. Es la correspondiente a una velocidad inicial en el mismo sentido que la rotación del agujero negro y un radio inicial más pequeño.
