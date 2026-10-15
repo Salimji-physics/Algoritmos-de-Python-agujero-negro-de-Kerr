@@ -26,9 +26,11 @@ Vemos cómo, a diferencia de los agujeros negros estáticos dados por la *métri
 
 La imagen que se muestra a continuación recoge cómo varía el signo de las componentes temporal (g00) y espacial radial (g11) de la métrica al atravesar las distintas regiones del agujero negro:
 
+<br>
 <div align="center">
 <img width="431" height="245" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
 </div>
+<br>
 
 ## Geodésicas temporales
 
@@ -36,21 +38,25 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 En *Relatividad General*, las trayectorias que siguen los observadores en caída libre son curvas geodésicas temporales futuras unitarias. Como ejemplos de dichas curvas, se muestran a continuación casos sencillos de observadores lanzados con diferentes condiciones iniciales en la vecindad de un agujero negro de Kerr:
 
+<br>
 <div align="center">
 <img width="310" height="170" alt="Geodésicas1" src="https://github.com/user-attachments/assets/e7b41aed-991e-440d-9194-52ef4bfc0c72" />
 
 <img width="285" height="170" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
 </div>
+<br>
 
 A primera vista, vemos comportamientos usuales de objetos bajo efecto de un potencial gravitatorio: según la posición y velocidad iniciales dadas, se tienen trayectorias de caída y escape (imagen izquierda) u órbitas estables circulares y elípticas (imagen derecha). Sin embargo, en el caso particular de la órbita elíptica, observamos un efecto que no veíamos en el formalismo newtoniano: la *precesión relativista* de la órbita.
 
 En la sección anterior, se introdujo el efecto de *frame dragging* de la ergosfera. En las siguientes imágenes, lo evidenciamos gráficamente colocando dos observadores al borde de la ergosfera, uno con componente espacial de la velocidad inicial nula, y otro con velocidad inicial cercana a la luz en sentido contrario a la rotación del agujero negro:
 
+<br>
 <div align="center">
 <img width="247" height="203" alt="Geodésicas4" src="https://github.com/user-attachments/assets/f652d62b-eba2-4970-8319-a3e50774a676" />
 
 <img width="247" height="203" alt="Geodésicas3" src="https://github.com/user-attachments/assets/fd387f30-8c4e-49a4-8845-26e4ec8489f2" />
 </div>
+<br>
 
 Cada figura muestra la misma situación vista desde dos perspectivas diferentes: una frontal y otra lateral. Vemos cómo, para ambas condiciones iniciales descritas anteriormente, cuando los observadores se adentran a la ergosfera por atracción gravitatoria, emprenden de forma inevitable una trayectoria en el sentido de giro del agujero negro.
 
@@ -58,17 +64,21 @@ En realidad, este efecto de arrastre también existe, en menor medida, fuera de 
 
 Veamos representado el fenómeno que acabamos de describir. Si rescatamos la órbita circular que vimos en las primeras imágenes de esta sección y, junto a ella, lanzamos otro observador con condiciones iniciales idénticas pero invirtiendo el sentido de la componente espacial de la velocidad inicial, se obtiene la siguiente figura:
 
+<br>
 <div align="center">
 <img width="434" height="186" alt="Geodésicas8" src="https://github.com/user-attachments/assets/fc50f5f8-de97-4153-bcae-e4655237874f" />
 </div>
+<br>
 
 Se observa cómo, en el caso en el que la velocidad inicial va en contra de la rotación del agujero negro, una trayectoria que en principio debiese formar una órbita circular idéntica al otro caso representado, en realidad se desvía por efecto del arrastre y acaba cayendo a su interior. Por lo tanto, estamos viendo dentro del marco relativista otro fenómeno que no se podría explicar desde el formalismo newtoniano: dado un mismo observador, con condiciones iniciales idénticas y bajo efecto de un mismo potencial gravitatorio, la trayectoria resultante varía con el sentido inicial de su velocidad espacial. Por otro lado, si la posición inicial se hubiese encontrado dentro de la ergosfera, como vimos en las dos imágenes anteriores, en lugar de recorrer una cierta distancia en sentido contrario a la rotación mientras se desvía lentamente hasta moverse a favor de esta, saldría directamente en sentido contrario a su velocidad espacial inicial.
 
 Por último, veamos qué ocurre si tomamos una posición inicial común fuera de la ergosfera e iteramos el módulo de la velocidad inicial:
 
+<br>
 <div align="center">
 <img width="303" height="209" alt="Geodésicas5" src="https://github.com/user-attachments/assets/6949898a-b885-4dd3-b9e8-361686589cfd" />
 </div>
+<br>
 
 Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del punto inicial, pero con sentido de la velocidad espacial inicial invertido. Si tan solo nos fijamos en el lado derecho, vemos el efecto esperado de una fuente gravitatoria: las curvas serán más o menos cerradas en torno al agujero negro en función del módulo de su velocidad inicial. Sin embargo, en el lado izquierdo volvemos a ver el mismo fenómeno que describimos anteriormente, al invertir el sentido de la velocidad las trayectorias se modifican completamente, desviándose por efecto del arrastre hasta ir en el mismo sentido de la rotación del agujero negro.
 
@@ -76,19 +86,23 @@ Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del
 
 Una de las consecuencias físicas más revolucionarias e interesantes de la llegada de la *Relatividad General* fue descubrir que la trayectoria de la luz se ve curvada por efecto de potenciales gravitatorios. En este marco teórico, la luz se mueve siguiendo las llamadas geodésicas luminosas, y podemos ver cómo estas son afectadas por la métrica de Kerr en las siguientes figuras:
 
+<br>
 <div align="center">
 <img width="201" height="200" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
 
 <img width="197" height="200" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
 </div>
+<br>
 
 En estas imágenes, se han representado geodésicas luz partiendo de puntos iniciales contenidos en el plano con coordenada azimutal de 45º y a diferentes distancias radiales del agujero negro. Ambas figuras muestran las mismas condiciones iniciales pero con sentidos de la velocidad espacial inicial contrarios. En el caso izquierdo, vemos cómo la luz se comporta de forma idéntica a cualquier observador bajo efectos de un campo gravitatorio: se curva en torno a la fuente gravitatoria y dichas curvas se vuelven más cerradas a medida que reducimos la distancia radial inicial, dando como resultado trayectorias de caída y trayectorias de escape. En la figura derecha, en cambio, vemos de nuevo cómo las curvas se ven desviadas por el efecto de arrastre de la rotación del agujero negro, evidenciando que también actúa sobre la luz.
 
 Veamos qué ocurre si, para las mismas posiciones iniciales, lanzamos la luz en la dirección azimutal:
 
+<br>
 <div align="center">
 <img width="210" height="283" alt="Geodésicas12" src="https://github.com/user-attachments/assets/0a491283-3362-45a7-bab2-77525ff055ab" />
 </div>
+<br>
 
 Se vuelve a poner de manifiesto el efecto del *frame dragging* sobre las geodésicas luz, inclinándolas hacia la derecha (sentido de rotación del agujero negro). Además, en esta imagen es mucho más fácil ver cómo, a medida que las posiciones iniciales son más cercanas a la ergosfera, el efecto de arrastre se va haciendo más notorio (las inclinaciones de las trayectorias se vuelven más pronunciadas).
 
@@ -98,9 +112,11 @@ Como resultado, se ha calculado e implantado en [Kerr_graficas](Kerr_graficas.ip
 
 Tomando un ángulo azimutal inicial de 90º, es decir, al buscar órbitas contenidas en el plano ecuatorial del agujero negro (recordemos que la velocidad espacial inicial no se sale de la dirección axial), se obtienen los siguientes 2 resultados:
 
+<br>
 <div align="center">
 <img width="406" height="193" alt="Geodésicas6" src="https://github.com/user-attachments/assets/73bca7f4-c406-424a-b037-29319e0c627d" />
 </div>
+<br>
 
 Estos son los denominados *anillos luz del agujero negro de Kerr*, y se clasifican en:
 * *Curva prógrada:* representada en color rojo. Es la correspondiente a una velocidad inicial en el mismo sentido que la rotación del agujero negro y un radio inicial más pequeño.
@@ -110,24 +126,30 @@ Cabe notar que la curva prógrada no se ha podido dibujar completamente debido a
 
 Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circulares de luz en su plano ecuatorial. A continuación, es lógico preguntarse cómo afecta a estas órbitas el efecto de arrastre de la rotación, al igual que hicimos con las geodésicas temporales en la sección anterior. Para ello, volvemos a representar la órbita circular retrógada (ahora en color rojo), junto con otra curva (verde) que parte con las mismas condiciones iniciales pero sentido opuesto de la velocidad axial inicial (es decir, a favor de la rotación):
 
+<br>
 <div align="center">
 <img width="443" height="154" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 </div>
+<br>
 
 Se observa, de nuevo, cómo el sentido de la velocidad axial inicial tomado determina si se forma o no la órbita. Concretamente, para el radio inicial elegido, la trayectoria que va en contra de la rotación del agujero negro es desviada lo suficiente por su arrastre para que aparezca la mencionada órbita circular. En cambio, la luz que se mueve a favor de la rotación produce una trayectoria de escape. Ocurrirá justo lo contrario con la órbita prógrada: si invertimos su sentido de la velocidad axial inicial para que vaya en contra de la rotación, el arrastre la sacará del equilibrio haciendo que caiga hacia el agujero negro. 
 
 Probemos ahora el mismo algoritmo para casos fuera del plano ecuatorial. Por ejemplo, con ángulo azimutal inicial de 45º:
 
+<br>
 <div align="center">
 <img width="236" height="243" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
 </div>
+<br>
 
 En este caso, aunque las trayectorias aparentan mantener órbitas en torno al agujero negro (no terminan de escapar ni caer), no tenemos asegurado que así se mantengan, pues no se está cumpliendo la condición de radio constante que se impuso inicialmente. Además, no se cierran órbitas circulares debido a que las trayectorias se ven constantemente desviadas por el arrastre, efecto que veremos de forma mucho más clara con las próximas figuras.
 
 Por último, se ha creado un algoritmo equivalente al anterior (búsqueda de anillos luz), pero para velocidades espaciales iniciales contenidas en la coordenada azimutal. Como resultado, se obtienen las siguientes figuras, una primera con posición inicial contenida en el plano ecuatorial y una segunda con ángulo azimutal inicial de 45º:
 
+<br>
 <div align="center">
 <img width="208" height="243" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
 <img width="245" height="243" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
 </div>
+<br>
