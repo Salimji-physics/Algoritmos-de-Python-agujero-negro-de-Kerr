@@ -88,9 +88,9 @@ Una de las consecuencias físicas más revolucionarias e interesantes de la lleg
 
 <br>
 <div align="center">
-<img width="201" height="200" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
+<img width="221" height="220" alt="Geodésicas9" src="https://github.com/user-attachments/assets/756926cf-5eb3-4558-acb2-20534de80335" />
 
-<img width="197" height="200" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
+<img width="217" height="220" alt="Geodésicas10" src="https://github.com/user-attachments/assets/0dcde18b-2fd9-40ff-8b9c-c087fb19b94e" />
 </div>
 <br>
 
