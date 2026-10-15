@@ -96,7 +96,7 @@ Se observa, de nuevo, cómo el sentido de la velocidad axial inicial tomado dete
 
 Probemos ahora el mismo algoritmo para casos fuera del plano ecuatorial. Por ejemplo, con ángulo azimutal inicial de 45º:
 
-<img width="196" height="203" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
+<img width="206" height="213" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
 
 En este caso, aunque las trayectorias aparentan mantener órbitas en torno al agujero negro (no terminan de escapar ni caer), no tenemos asegurado que así se mantengan, pues no se está cumpliendo la condición de radio constante que se impuso inicialmente. Además, no se cierran órbitas circulares debido a que las trayectorias se ven constantemente desviadas por el arrastre, efecto que veremos de forma mucho más clara con las próximas figuras.
 
