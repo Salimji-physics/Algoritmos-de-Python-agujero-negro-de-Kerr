@@ -153,3 +153,5 @@ Por último, se ha creado un algoritmo equivalente al anterior (búsqueda de ani
 <img width="245" height="243" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
 </div>
 <br>
+
+En ambos casos, las trayectorias son constantemente desviadas hacia el sentido de rotación del agujero negro, impidiendo que se formen órbitas circulares. Además, se observa el mismo comportamiento que en la figura anterior: existe una tendencia a orbitar en torno al agujero negro, pero el radio no se mantiene constante. 
