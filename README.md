@@ -102,6 +102,6 @@ En este caso, aunque las trayectorias aparentan mantener órbitas en torno al ag
 
 Por último, se ha creado un algoritmo equivalente al anterior (búsqueda de anillos luz), pero para velocidades espaciales iniciales contenidas en la coordenada azimutal. Como resultado, se obtienen las siguientes figuras, una primera con posición inicial contenida en el plano ecuatorial y una segunda con ángulo azimutal inicial de 45º:
 
-<img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
+<img width="178" height="229" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
 <img width="365" height="363" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
