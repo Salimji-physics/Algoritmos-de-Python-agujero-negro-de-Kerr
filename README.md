@@ -96,7 +96,7 @@ Se observa, de nuevo, cómo el sentido de la velocidad axial inicial tomado dete
 
 Probemos ahora el mismo algoritmo para casos fuera del plano ecuatorial. Por ejemplo, con ángulo azimutal inicial de 45º:
 
-<img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
+<img width="176" height="183" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
 
 <img width="278" height="329" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
