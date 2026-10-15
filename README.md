@@ -16,8 +16,10 @@ Por otro lado, a partir de la búsqueda de los ceros de la métrica y su inversa
 
 Al introducir las condiciones calculadas anteriormente en el programa [Kerr_graficas](Kerr_graficas.ipynb), se ha logrado representar gráficamente la estructura interna de los agujeros negros que rotan. Véase la siguiente figura:
 
+<div align="center">
 <img width="390" height="260" alt="Agujero negro de Kerr" src="https://github.com/user-attachments/assets/9924486b-4112-4c53-bc1a-fdeb8da10e7c" />
-
+<\div>
+  
 Vemos cómo, a diferencia de los agujeros negros estáticos dados por la *métrica de Schwarzschild*, en este caso tenemos una singularidad anular evitable concéntrica con los horizontes y contenida en el plano perpendicular al eje de rotación. Además, pasamos a tener dos horizontes de sucesos y unas nuevas superficies a las que denominamos *S+* y *S-*. La región comprenida entre *S+* y el horizonte externo es denominada *ergosfera*. Todo observador que se encuentre dentro de esta se verá obligado a desplazarse en el sentido de rotación del agujero negro debido al efecto de arrastre o *frame dragging* que esta produce sobre el espacio-tiempo.
 
 La imagen que se muestra a continuación recoge cómo varía el signo de las componentes temporal (g00) y espacial radial (g11) de la métrica al atravesar las distintas regiones del agujero negro:
