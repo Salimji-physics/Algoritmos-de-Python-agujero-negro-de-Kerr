@@ -104,4 +104,4 @@ Por último, se ha creado un algoritmo equivalente al anterior (búsqueda de ani
 
 <img width="178" height="229" alt="Geodésicas14" src="https://github.com/user-attachments/assets/b4b1d8c8-6b73-4c58-bb7e-016681f4c8fe" />
 
-<img width="265" height="263" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
+<img width="245" height="243" alt="Geodésicas13" src="https://github.com/user-attachments/assets/def095b0-97be-4807-b10f-aa92d776b358" />
