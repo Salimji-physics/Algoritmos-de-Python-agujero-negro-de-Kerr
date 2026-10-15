@@ -92,6 +92,8 @@ Vemos que los agujeros negros de Kerr pueden poseer 2 órbitas estables circular
 
 <img width="443" height="154" alt="Geodésicas7" src="https://github.com/user-attachments/assets/9fe72dcc-5357-492b-95cb-a9d0f19f1cb0" />
 
+Se observa, de nuevo, cómo el sentido de la velocidad axial inicial tomado determina si se forma o no la órbita. Concretamente, para el radio inicial elegido, la trayectoria que va en contra de la rotación del agujero negro es desviada lo suficiente por su arrastre para que aparezca la mencionada órbita circular. En cambio, la luz que se mueve a favor de la rotación produce una trayectoria de escape. En cambio, ocurrirá justo lo contrario con la órbita prógrada: si invertimos su sentido de la velocidad axial inicial para que vaya en contra de la rotación, el arrastre la sacará del equilibrio haciendo que caiga hacia el agujero negro. 
+
 Probemos ahora el mismo algoritmo para casos fuera del plano ecuatorial. Por ejemplo, con ángulo azimutal inicial de 45º:
 
 <img width="376" height="383" alt="Geodésicas11" src="https://github.com/user-attachments/assets/e1a483e7-5477-4215-90fa-3b02b0b16005" />
