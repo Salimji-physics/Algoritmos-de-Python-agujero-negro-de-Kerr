@@ -24,7 +24,9 @@ Vemos cómo, a diferencia de los agujeros negros estáticos dados por la *métri
 
 La imagen que se muestra a continuación recoge cómo varía el signo de las componentes temporal (g00) y espacial radial (g11) de la métrica al atravesar las distintas regiones del agujero negro:
 
+<div align="center">
 <img width="431" height="245" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
+</div>
 
 ## Geodésicas temporales
 
@@ -32,9 +34,11 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 En *Relatividad General*, las trayectorias que siguen los observadores en caída libre son curvas geodésicas temporales futuras unitarias. Como ejemplos de dichas curvas, se muestran a continuación casos sencillos de observadores lanzados con diferentes condiciones iniciales en la vecindad de un agujero negro de Kerr:
 
+<div align="center">
 <img width="310" height="170" alt="Geodésicas1" src="https://github.com/user-attachments/assets/e7b41aed-991e-440d-9194-52ef4bfc0c72" />
 
 <img width="285" height="170" alt="Geodésicas2" src="https://github.com/user-attachments/assets/9ec18ec1-2daf-4c7d-9ba9-73f5bb8227d4" />
+</div>
 
 A primera vista, vemos comportamientos usuales de objetos bajo efecto de un potencial gravitatorio: según la posición y velocidad iniciales dadas, se tienen trayectorias de caída y escape (imagen izquierda) u órbitas estables circulares y elípticas (imagen derecha). Sin embargo, en el caso particular de la órbita elíptica, observamos un efecto que no veíamos en el formalismo newtoniano: la *precesión relativista* de la órbita.
 
