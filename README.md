@@ -80,7 +80,7 @@ Por último, veamos qué ocurre si tomamos una posición inicial común fuera de
 </div>
 <br>
 
-Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del punto inicial, pero con sentido de la velocidad espacial inicial invertido. Si tan solo nos fijamos en el lado derecho, vemos el efecto esperado de una fuente gravitatoria: las curvas serán más o menos cerradas en torno al agujero negro en función del módulo de su velocidad inicial. Sin embargo, en el lado izquierdo volvemos a ver el mismo fenómeno que describimos anteriormente, al invertir el sentido de la velocidad las trayectorias se modifican completamente, desviándose por efecto del arrastre hasta ir en el mismo sentido de la rotación del agujero negro.
+Tenemos el mismo grupo de observadores repetidos al lado izquierdo y derecho del punto inicial, pero con sentido de la velocidad espacial inicial invertido. Si tan solo nos fijamos en el lado derecho, vemos el efecto esperado de una fuente gravitatoria: las curvas serán más o menos cerradas en torno al agujero negro en función del módulo de su velocidad inicial. Sin embargo, en el lado izquierdo, volvemos a ver el mismo fenómeno que describimos anteriormente: al invertir el sentido de la velocidad, las trayectorias se modifican completamente, desviándose por efecto del arrastre hasta ir en el mismo sentido de la rotación del agujero negro.
 
 ## Geodésicas luz
 
