@@ -28,7 +28,7 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 
 <br>
 <div align="center">
-<img width="431" height="245" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
+<img width="461" height="245" alt="Regiones agujero negro de Kerr" src="https://github.com/user-attachments/assets/02f4a3ae-d87b-442a-8594-2a9bd97855e3" />
 </div>
 <br>
 
