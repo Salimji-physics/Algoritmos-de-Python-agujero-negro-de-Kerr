@@ -32,6 +32,8 @@ La imagen que se muestra a continuación recoge cómo varía el signo de las com
 </div>
 <br>
 
+Para un observador que pasa de la región 1 (exterior) a la región 2 (ergosfera), g00 se vuelve espacial (toda la contribución temporal se encontrará en el término de arrastre, que comentaremos más adelante). Al atravesar el horizonte de sucesos externo y pasar a la región 3, g11 se vuelve temporal (manteniendo g00 espacial), de modo que veremos un comportamiento similar al Scwharzschild: se da un movimiento radial inevitable hacia el interior del agujero negro (con la diferencia de que se mantiene una cierta contribución axial del arrastre). Si el observador logra evitar la singularidad y pasa a la región 4, vuelve a encontrarse en la misma situación que en la ergosfera. Por último, en la región 5, la métrica tiene los mismos signos que en el exterior del agujero negro.
+
 ## Geodésicas temporales
 
 **AVISO:**  de aquí en adelante, en la graficación de geodésicas, tan solo se visualizarán la ergosfera y el horizonte de sucesos externo del agujero negro para no saturar las figuras y facilitar su visualización. Además, se mostrará gráficamente la **posición inicial** con un punto de color amarillo y la componente espacial de la **velocidad inicial** con una flecha del mismo color que la curva de trayectoria.
